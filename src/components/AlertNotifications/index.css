@@ -1,0 +1,41 @@
+.app-container {
+  height: 100vh;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.noti-head {
+  font-size: 40px;
+}
+.react-icons {
+  height: 20vh;
+}
+.Notifications-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrap {
+  display: flex;
+}
+.sucsess {
+  color: #2dca73;
+  font-weight: bold;
+}
+.text-content {
+  color: #64748b;
+}
+.Error {
+  color: #ff0b37;
+  font-weight: bold;
+}
+.Warning {
+  color: #ffb800;
+  font-weight: bold;
+}
+.Info {
+  color: #0f81e0;
+  font-weight: bold;
+}
